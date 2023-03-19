@@ -1,0 +1,50 @@
+header {
+    color: red;
+}
+
+body {
+    background-color:antiquewhite;
+}
+
+#nav1 {
+    background-color: burlywood;
+    text-align: center;
+    border-style: solid;
+    word-spacing: 10px;
+    
+}
+
+a {
+    border-style: dotted;
+    border: red;
+    word-spacing: 1px;   
+}
+
+footer {
+    background-color: burlywood;
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    list-style-position: inside;
+}
+
+address {
+    text-align: center;
+}
+
+h3 {
+    color: rebeccapurple
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
+
+.boldRed {
+    font-weight: bold;
+    color: red;
+}
